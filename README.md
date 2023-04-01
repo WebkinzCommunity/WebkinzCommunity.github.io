@@ -1,3 +1,3 @@
 # WebkinzCommunity.github.io
 
-Nothing here yet.
+Nothing here yet. Still a work in-progress.
